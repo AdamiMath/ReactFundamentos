@@ -1,6 +1,6 @@
 import React from "react";
 
-export default ({nome,sobrenome}) =>{
-    return <div>{nome} <strong>{sobrenome}</strong></div>           
+export default ({nome,sobrenome, idade}) =>{
+    return <div>{nome} <strong>{sobrenome}</strong> Tendo {idade} anos</div>           
     
 }
