@@ -5,6 +5,8 @@
     overflow: hidden;
     width: 400px;
     justify-content: center;
+  
+    
     
     
 }
@@ -13,6 +15,7 @@
     padding: 10px 0px;
     display: flex;
     justify-content: center;
+    align-self: center;
 }
 
 
@@ -20,4 +23,6 @@
     background-color: #fff;
     color: #000;
     padding: 20px;
+    justify-content: center;
+    align-self: center;
 }
